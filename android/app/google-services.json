@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376712434336",
+    "project_id": "unnat-bharat",
+    "storage_bucket": "unnat-bharat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376712434336:android:34622647746945742e2fc5",
+        "android_client_info": {
+          "package_name": "com.example.unnatbharat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376712434336-cm8p4uuk48r0ncipku6kd5r8gnv4q6d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALolaejDim2McWvtmUhDyUlV6b96O7v-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376712434336-cm8p4uuk48r0ncipku6kd5r8gnv4q6d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
